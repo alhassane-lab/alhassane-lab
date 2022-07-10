@@ -1,5 +1,5 @@
 ### hey there 
-<!-- TODO-IST:END -->
+<!-- TODO-IST:START -->
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -19,33 +19,10 @@
 
 **languages and tools:**  
 
-
-
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/knime/knime.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   9 hrs 42 mins   ███████████████████████░░   91.48 %
-MDX          31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-```
-
-<!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 
 📈 my github stats
