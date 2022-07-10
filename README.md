@@ -21,13 +21,12 @@
       <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 </div>
 
-<br>
 
 . 
 -
 Hey there 👋
 
-I’m Alhassane, data scientist and creative problem solver. I make it my mission to catalyze data and unveil their power to get news insights.
+I’m Alhassane, data scientist and creative problem solver. My mission is to catalyze data and unveil their power to get news insights.
 
 <br>
 
