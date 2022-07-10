@@ -27,7 +27,7 @@
 -
 Hey there 👋
 
-I’m Alhassane, data scientist and creative problem solver. I I make it my mission to catalyze data and unveil their power to get insights.
+I’m Alhassane, data scientist and creative problem solver. I make it my mission to catalyze data and unveil their power to get news insights.
 
 <br>
 
