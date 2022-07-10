@@ -21,17 +21,18 @@
       <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 </div>
 
--
 <br>
 
-Hey there 👋 
+. 
 -
-I’m Alhassane, data scientist and creative problem solver. I catalyze data and unveil their power to get insights.
+Hey there 👋
+
+I’m Alhassane, data scientist and creative problem solver. I I make it my mission to catalyze data and unveil their power to get insights.
 
 <br>
 
-My favorite tools 🛠️
--
+**My favorite tools**
+
 <div>
     <img align="left" alt=LinkedIN" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/postgre.png"/></a>
     <img align="left" alt=LinkedIN" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/python.png"/></a>
