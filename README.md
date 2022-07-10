@@ -1,5 +1,4 @@
 ### hey there 
-<p> I’m Alhassane, I catalyze data and unveil their powers to get insights.....<p>
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
