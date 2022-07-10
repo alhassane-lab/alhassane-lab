@@ -13,7 +13,7 @@
   </div>
 </div>
  <div>
-<a href="https://www.instagram.com/wpali/">
+<a href="https://www.instagram.com/wpali/" target="_blank">
       <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
     <a href="https://twitter.com/alhassane86">
       <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
