@@ -15,7 +15,7 @@
 <!-- TODO-IST:END -->
 <br/>
 
- I'm Alhassane, data catalyst....
+ <p>I'm Alhassane, data catalyst....</p>
 
 **languages and tools:**  
 
