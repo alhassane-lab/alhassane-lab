@@ -1,5 +1,6 @@
 ### hey there 
 <!-- TODO-IST:START -->
+<div>
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,9 +12,10 @@
 </a>
 <a href="https://www.linkedin.com/in/alhassaneahmed/"> 
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> 
+  </div>
 <!-- TODO-IST:END -->
-<br/>
+
 
  <p>I'm Alhassane, data catalyst....</p>
 
