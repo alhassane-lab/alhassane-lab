@@ -33,12 +33,13 @@ I’m Alhassane, data scientist and creative problem solver. I catalyze data and
 My favorite tools 🛠️
 -
 <div>
-    <img align="left" alt=LinkedIN" width="50px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/python.png"/></a>
-    <img align="left" alt=LinkedIN" width="110px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/pyspark.jpeg"/></a>
-    <img align="left" alt=LinkedIN" width="80px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png"/></a>
-    <img align="left" alt=LinkedIN" width="90px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit.png"/></a>
-    <img align="left" alt=LinkedIN" width="80px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/tableau.png"/></a>
     <img align="left" alt=LinkedIN" width="80px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/mysql.png"/></a>
+    <img align="left" alt=LinkedIN" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/python.png"/></a>
+    <img align="left" alt=LinkedIN" width="100px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/pyspark.jpeg"/></a>
+    <img align="left" alt=LinkedIN" width="70px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png"/></a>
+    <img align="left" alt=LinkedIN" width="60px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png"/></a>
+    <img align="left" alt=LinkedIN" width="80px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/tableau.png"/></a>
+    <img align="left" alt=LinkedIN" width="90px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/knime.svg"/></a>
     
     
 </div>
