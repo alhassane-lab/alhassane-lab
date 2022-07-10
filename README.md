@@ -1,6 +1,6 @@
 ### hey there 
 <!-- TODO-IST:START -->
-<div>
+<section><div>
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -14,6 +14,15 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
   </div>
+<div>
+  📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Alhasdata&show_icons=true&theme=gotham" alt="Alhasdata" />
+  
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Alhasdata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+</section>
 <!-- TODO-IST:END -->
 
 
