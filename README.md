@@ -1,11 +1,14 @@
-### Hi there 👋
-
 Hey there 👋
 
 I’m Alhassane, I catalyze data and unveil their powers to get insights.....
 
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Alhasdata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **Alhasdata/Alhasdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
