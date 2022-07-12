@@ -26,7 +26,7 @@
 -
 Hey there 👋
 
-I’m Alhassane, a Data Analyst living in paris.
+I’m **Alhassane** , a **Data Analyst** living in paris.
 
 I am graduated with a Management Master degree specialized Marketing and I worked for six years as a sales representative in IT industry.
 
