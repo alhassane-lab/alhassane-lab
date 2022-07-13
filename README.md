@@ -28,9 +28,9 @@ Hey there 👋
 
 I’m **Alhassane** , a **Data Analyst** living in paris.
 
-I am graduated with a Management Master degree specialized Marketing and I worked for six years as a sales representative in IT industry.
-
-In 2021, I joined the Data Analyst course path of OpenClassrooms in partnership with ENSAE Paris. I invested my time and money in following several other trainings and mastering new tools. I spent whole weekends and evenings dissecting scientific articles and developing my own codes... But being passionate about AI in general, it was not difficult for me to put aside distractions and focused on my personal development. Today, I work on awesome Machine Learning projects while having fun 😎...
+I used to work in Marketing/Sales ...
+                                                                                                                                           
+Today, I work on awesome Machine Learning projects while having fun 😎...
 
 
 ---
