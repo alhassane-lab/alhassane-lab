@@ -38,13 +38,12 @@ Today, I work on awesome Machine Learning projects while having fun 😎...
                                                                                                                                            
 **Favorite data processing tools**
 <div Align="left">
-<img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />        <img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Sklearn" width="55px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
-<img Align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <br/>
 
 <br>
