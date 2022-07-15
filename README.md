@@ -36,26 +36,44 @@ Today, I work on awesome Machine Learning projects while having fun 😎...
 
 ---
                                                                                                                                            
-**My favorite tools**
+**Top tools**
 <div Align="left">
-<img Align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="PostgreSQL" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' style="padding-right:10px;" />
-<img Align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Numpy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Sklearn" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
-<img Align="left" alt="Spark" width="45px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/spark.png" style="padding-right:10px;" />
-<img Align="left" alt="Streamlit" width="40px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png" style="padding-right:10px;" />
+<img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Sklearn" width="55px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
+<img Align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="PostgreSQL" width="40px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' style="padding-right:10px;" />
+<img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img Align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
+
+<br/>
+
+
+<br>
+
+<br>
+
+**Other tools**
+
+
+
+<img Align="left" alt="Spark" width="55px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/spark.png" style="padding-right:10px;" />
+
+
+
+<img Align="left" alt="Streamlit" width="50px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png" style="padding-right:10px;" />
 
 <img Align="left" alt="HTML5" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' style="padding-right:10px;" />
 <img Align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 
-<img Align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+
 <img Align="left" alt="Vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 
-<img Align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
 <img Align="left" alt="Canva" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg' style="padding-right:10px;" />
 <img Align="left" alt="Slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
