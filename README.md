@@ -36,7 +36,7 @@ Today, I work on awesome Machine Learning projects while having fun 😎...
 
 ---
                                                                                                                                            
-**Favorite data tools**
+**Favorite data processing tools**
 <div Align="left">
 <img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -51,7 +51,7 @@ Today, I work on awesome Machine Learning projects while having fun 😎...
 <br>
 <br>
 
-**Favorite visualization tools**
+**Favorite viz/dashboarding tools**
 
 <img Align="left" alt="Jupyter" width="40px" src="./tools/plotly2.png" style="padding-right:10px;" />
 <img Align="left" alt="Jupyter" width="40px" src="./tools/Matplotlib.png" style="padding-right:10px;" />
