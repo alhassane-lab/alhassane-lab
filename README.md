@@ -53,6 +53,7 @@ Today, I work on awesome Machine Learning projects while having fun 😎...
 
 **Favorite visualization tools**
 
+<img Align="left" alt="Jupyter" width="40px" src="./tools/plotly2.png" style="padding-right:10px;" />
 <img Align="left" alt="Jupyter" width="40px" src="./tools/Matplotlib.png" style="padding-right:10px;" />
 <img Align="left" alt="Jupyter" width="44px" src="./tools/seaborn.svg" style="padding-right:10px;" />
 <img Align="left" alt="Jupyter" width="40px" src="./tools/tableau.svg" style="padding-right:10px;" />
