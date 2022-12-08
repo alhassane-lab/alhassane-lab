@@ -22,11 +22,11 @@
 
 ---
                                                                                                                                            
-💥Data Analyst & Data Analyst & Scientist </br>
-✔ Cloud enthusiast(GCP, AWS)
-✔ Experienced in CRM data.
-✔ Motivated - Autonomous and well organized - Open mind
-✔ Familiar with Agile Software development (Scrum, Safe Agile)
+💥Data Analyst & Data Analyst & Scientist <br>
+✔ Cloud enthusiast(GCP, AWS) <br>
+✔ Experienced in CRM data. <br>
+✔ Motivated - Autonomous and well organized - Open mind <br>
+✔ Familiar with Agile Software development (Scrum, Safe Agile) <br>
 
 ---
                                                                                                                                            
