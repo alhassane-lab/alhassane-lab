@@ -22,7 +22,7 @@
 
 ---
                                                                                                                                            
-**💥Data Analyst & Data Analyst & Scientist** <br>
+**💥Data Analyst & Scientist💥** <br>
 <br>
 ✔ Cloud enthusiast(GCP, AWS) <br>
 ✔ Experienced in CRM data. <br>
