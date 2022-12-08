@@ -21,7 +21,8 @@
                                                                                                                                            
 
 ---
-💥Data Analyst & Data Analyst & Scientist
+                                                                                                                                           
+💥Data Analyst & Data Analyst & Scientist </br>
 ✔ Cloud enthusiast(GCP, AWS)
 ✔ Experienced in CRM data.
 ✔ Motivated - Autonomous and well organized - Open mind
