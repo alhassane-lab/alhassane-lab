@@ -22,7 +22,7 @@
 
 ---
                                                                                                                                            
-**💥Data Analyst & Scientist💥** <br>
+**💥Machine Learning Engineer💥** <br>
 <br>
 ✔ Cloud enthusiast(GCP, AWS) <br>
 ✔ Experienced in CRM data. <br>
