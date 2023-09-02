@@ -55,4 +55,4 @@
 - GCP : BigQuery, VertexAI, Kubeflow, GKE, Dataflow
 - AWS : EMR, AppFlow
 
-
+---
