@@ -28,7 +28,7 @@
     
 
 
-### Expertise
+### Skills
 
 #### Analytics & Machine learning
 - Data Scrapping,
