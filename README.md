@@ -26,7 +26,7 @@
 - Familiar with Agile Software development (Scrum, Safe Agile)
 - Certified Google Cloud Professional Data Engineer (2023-08-05)
     
-
+---
 
 ### Skills
 
