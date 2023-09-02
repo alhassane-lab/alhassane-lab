@@ -15,13 +15,18 @@
                                                                                                                                            
 ## 💥  Data Analytics Engineer 
 
+<img align="right" alt="Alhassane's picture" width="15%" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79263163" />
+
 ### Profil
+ 
 - Cloud enthusiast (GCP, AWS).
 - Strong skills in SQL (BigQuery) & Python.
 - Experienced in CRM data (Salesforce).
 - Motivated - Autonomous and well organized - Open minded.
 - Familiar with Agile Software development (Scrum, Safe Agile)
 - Certified Google Cloud Professional Data Engineer (2023-08-05)
+    
+
 
 ### Expertise
 
