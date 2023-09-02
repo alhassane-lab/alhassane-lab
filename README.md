@@ -8,73 +8,45 @@
     <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Alhasdata&show_icons=true&theme=radical" alt="Alhassane's github stats" /> </p>
   </div>
 </div>
-
-<div>
-     <a href="https://www.linkedin.com/in/alhassaneahmed/" target="_blank" rel="noopener noreferrer" > 
-      <img align="left" alt=LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-     <a href="https://twitter.com/alhassane86" target="_blank" rel="noopener noreferrer" >
-      <img align="left" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>     
-     <a href="https://www.instagram.com/wpali/" target="_blank" rel="noopener noreferrer" >
-      <img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-</div>
-<br />
                                                                                                                                            
-
 ---
                                                                                                                                            
-**💥Machine Learning Engineer💥** <br>
-<br>
-✔ Cloud enthusiast(GCP, AWS) <br>
-✔ Experienced in CRM data. <br>
-✔ Motivated - Autonomous and well organized - Open mind <br>
-✔ Familiar with Agile Software development (Scrum, Safe Agile) <br>
 
----
                                                                                                                                            
-**Favorite data processing tools**
-<div Align="left">
-<img Align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />        <img Align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Numpy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Sklearn" width="60px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/sklearn.png" style="padding-right:10px;" />
-<img Align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+## 💥  Data Analytics Engineer 
 
-<br/>
+### Profil
+- Cloud enthusiast (GCP, AWS).
+- Strong skills in SQL (BigQuery) & Python.
+- Experienced in CRM data (Salesforce).
+- Motivated - Autonomous and well organized - Open minded.
+- Familiar with Agile Software development (Scrum, Safe Agile)
+- Certified Google Cloud Professional Data Engineer (2023-08-05)
 
-<br>
-<br>
-<br>
+### Expertise
 
-**Favorite viz/dashboarding tools**
+#### Analytics & Machine learning
+- Data Scrapping,
+- Principal Component Analysis, Timeseries Analysis
+- Image Processing, Image Classification, Object Detection
+- Entity Recognition, Text Categorization, Sentiment Analysis
+- Churn Prediction,  Mix Marketing Modeling, Customer Behavior Analysis, Customer Segmentation...
 
-<img Align="left" alt="Jupyter" width="40px" src="./tools/plotly2.png" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="40px" src="./tools/Matplotlib.png" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="44px" src="./tools/seaborn.svg" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="40px" src="./tools/tableau.svg" style="padding-right:10px;" />
-<img Align="left" alt="Jupyter" width="40px" src="./tools/powerbi.png" style="padding-right:10px;" />
-
-<br/>
+**Tools** : SQL, Python, BetifulSoup, Pandas, Numpy, Tensorflow, Keras, Spacy, NLTK, Pillow, OpenCV
 
 
-<br>
-<br>
-<br>
+#### Data Engineering & OPS
+- Extract-Load & Transformation
+- Unit & Integration Tests
+- ML Models & Jobs Monitoring
+- CICD
 
-**Other tools**
-
-<img Align="left" alt="excel" width="30px" src="./tools/excel.svg" style="padding-right:10px;" />
-<img Align="left" alt="PostgreSQL" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg' style="padding-right:10px;" />
-<img Align="left" alt="Spark" width="55px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/spark.png" style="padding-right:10px;" />
-<img Align="left" alt="Streamlit" width="50px" src="https://github.com/Alhasdata/Alhasdata/blob/main/tools/streamlit2.png" style="padding-right:10px;" />
-<img Align="left" alt="HTML5" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' style="padding-right:10px;" />
-<img Align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Vscode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="Canva" width="30px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg' style="padding-right:10px;" />
-<img Align="left" alt="Slack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />
-<img Align="left" alt="trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="padding-right:10px;" />
-</div>
+**Tools** : Python, DBT Core, Docker, Terraform, Kubernetes, Argo
 
 
+#### Cloud Computing
 
-<br>
+- GCP : BigQuery, VertexAI, Kubeflow, GKE, Dataflow
+- AWS : EMR, AppFlow
+
+
