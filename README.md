@@ -2,10 +2,10 @@
  <div style="display: flex;
     justify-content: space-between;">
   <div> 
-    <img align="left" alt="Alhassane's picture" width="25%" src="https://github.com/Alhasdata/Alhasdata/blob/main/img/cov.png" />
+    <img align="left" alt="Alhassane's picture" width="25%" src="https://github.com/Alhassane-lab/Alhassane-lab/blob/main/img/cov.png" />
   </div>
   <div>
-    <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Alhasdata&show_icons=true&theme=radical" alt="Alhassane's github stats" /> </p>
+    <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=Alhassane-lab&show_icons=true&theme=radical" alt="Alhassane's github stats" /> </p>
   </div>
 </div>
                                                                                                                                            
