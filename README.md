@@ -31,28 +31,22 @@
 
 ### Skills
 
-#### Analytics & Machine learning
-- Data Scrapping,
+#### Analytics & Machine learning - Computing
 - Principal Component Analysis, Timeseries Analysis
 - Image Processing, Image Classification, Object Detection
 - Entity Recognition, Text Categorization, Sentiment Analysis
 - Churn Prediction,  Mix Marketing Modeling, Customer Behavior Analysis, Customer Segmentation...
 
-**Tools** : SQL, Python, BetifulSoup, Pandas, Numpy, Tensorflow, Keras, Spacy, NLTK, Pillow, OpenCV
+**Tools** : BigQuery, VertexAI, Kubeflow, Pandas, Numpy, Tensorflow, Keras, Spacy, NLTK, Pillow, OpenCV
 
 
-#### Data Engineering & OPS
+#### Data Engineering | OPS
+- Data Scrapping
 - Extract-Load & Transformation
 - Unit & Integration Tests
 - ML Models & Jobs Monitoring
 - CICD
 
-**Tools** : Python, DBT Core, Docker, Terraform, Kubernetes, Argo
-
-
-#### Cloud Computing
-
-- GCP : BigQuery, VertexAI, Kubeflow, GKE, Dataflow
-- AWS : EMR, AppFlow
+**Tools** : Python, BetifulSoup, DBT Core, DataFlow, Cloud Composer, Docker, Terraform, Kubernetes, Argo
 
 ---
