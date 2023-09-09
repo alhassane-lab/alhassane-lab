@@ -19,7 +19,7 @@
 
 ### Profil
  
-- Cloud enthusiast (GCP, AWS).
+- Cloud enthusiast (GCP).
 - Strong skills in SQL (BigQuery) & Python.
 - Experienced in CRM data (Salesforce).
 - Motivated - Autonomous and well organized - Open minded.
